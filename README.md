@@ -1,5 +1,5 @@
 # FYP-ML-For-Genomics
-This repo contains relevant files for my final year project in NUS (2018). 
+This repo contains relevant files for my final year project in NUS (2018), 'Machine Learning For Genomics'.
 
 *Abstract*
 
