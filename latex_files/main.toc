@@ -1,0 +1,78 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\contentsline {chapter}{Abstract}{i}{section*.1}
+\contentsline {chapter}{Acknowledgements}{ii}{section*.2}
+\contentsline {chapter}{\numberline {1}Introduction and Preview}{1}{chapter.6}
+\contentsline {section}{\numberline {1.1}Machine Learning}{1}{section.7}
+\contentsline {subsection}{\numberline {1.1.1}Unsupervised Learning, Supervised Learning, Semi-supervised Learning}{1}{subsection.8}
+\contentsline {section}{\numberline {1.2}Basic Genomics}{2}{section.9}
+\contentsline {subsection}{\numberline {1.2.1}Molecular Biology}{3}{subsection.10}
+\contentsline {subsection}{\numberline {1.2.2}Mitochondria}{3}{subsection.11}
+\contentsline {section}{\numberline {1.3}Structure of Report}{4}{section.12}
+\contentsline {chapter}{\numberline {2}Objective and Literature Review}{5}{chapter.13}
+\contentsline {section}{\numberline {2.1}Objective}{5}{section.14}
+\contentsline {subsection}{\numberline {2.1.1}Clustering Gene Expression Values}{6}{subsection.16}
+\contentsline {section}{\numberline {2.2}Literature Review}{7}{section.17}
+\contentsline {chapter}{\numberline {3}Theories and Tools Used}{9}{chapter.18}
+\contentsline {section}{\numberline {3.1}Expectation Maximisation (EM) Algorithm}{9}{section.19}
+\contentsline {subsection}{\numberline {3.1.1}Outline}{9}{subsection.20}
+\contentsline {section}{\numberline {3.2}Determining Optimal Number of Clusters}{10}{section.21}
+\contentsline {subsection}{\numberline {3.2.1}BIC and AIC}{10}{subsection.22}
+\contentsline {subsubsection}{Outline}{11}{section*.23}
+\contentsline {subsection}{\numberline {3.2.2}Elbow Method Analysis}{11}{subsection.24}
+\contentsline {subsubsection}{Outline}{11}{section*.25}
+\contentsline {subsection}{\numberline {3.2.3}Gap Statistic}{12}{subsection.27}
+\contentsline {subsubsection}{Outline}{12}{section*.28}
+\contentsline {section}{\numberline {3.3}Performance Measures}{13}{section.29}
+\contentsline {subsection}{\numberline {3.3.1}Clustering Accuracy (CA)}{14}{subsection.30}
+\contentsline {subsection}{\numberline {3.3.2}ME Distance}{14}{subsection.31}
+\contentsline {subsubsection}{Definition}{14}{section*.32}
+\contentsline {subsubsection}{The Misclassification Error (ME) Distance between Clusterings}{15}{section*.33}
+\contentsline {section}{\numberline {3.4}Gene Ontology (GO)}{15}{section.34}
+\contentsline {chapter}{\numberline {4}Algorithms}{17}{chapter.36}
+\contentsline {section}{\numberline {4.1}Short Time-series Expression Miner (STEM)}{17}{section.37}
+\contentsline {subsection}{\numberline {4.1.1}Outline}{17}{subsection.38}
+\contentsline {subsection}{\numberline {4.1.2}Generating Model Profiles}{18}{subsection.39}
+\contentsline {subsubsection}{Selecting Distinct Model Profiles}{18}{section*.40}
+\contentsline {subsubsection}{Distance Measure}{18}{section*.42}
+\contentsline {subsection}{\numberline {4.1.3}Finding Significant Model Profiles}{20}{subsection.53}
+\contentsline {subsubsection}{Assigning Genes to Model Profiles}{20}{section*.54}
+\contentsline {subsubsection}{Permutation Test}{20}{section*.55}
+\contentsline {subsection}{\numberline {4.1.4}Grouping Significant Profiles}{21}{subsection.56}
+\contentsline {subsection}{\numberline {4.1.5}Challenges}{22}{subsection.57}
+\contentsline {section}{\numberline {4.2}Mixture Model}{22}{section.58}
+\contentsline {subsection}{\numberline {4.2.1}Outline}{23}{subsection.59}
+\contentsline {section}{\numberline {4.3}K-means}{24}{section.68}
+\contentsline {subsection}{\numberline {4.3.1}Outline}{25}{subsection.70}
+\contentsline {subsubsection}{K-means ++}{25}{section*.73}
+\contentsline {subsubsection}{Challenges}{26}{section*.74}
+\contentsline {section}{\numberline {4.4}Hierarchical Clustering}{26}{section.75}
+\contentsline {subsection}{\numberline {4.4.1}Outline}{27}{subsection.76}
+\contentsline {subsection}{\numberline {4.4.2}Challenges}{27}{subsection.78}
+\contentsline {chapter}{\numberline {5}Empirical Study}{29}{chapter.79}
+\contentsline {section}{\numberline {5.1}Description of Data}{29}{section.80}
+\contentsline {subsection}{\numberline {5.1.1}Exploratory Analysis}{30}{subsection.81}
+\contentsline {section}{\numberline {5.2}STEM}{32}{section.85}
+\contentsline {subsection}{\numberline {5.2.1}Results}{32}{subsection.86}
+\contentsline {section}{\numberline {5.3}Mixture Model}{32}{section.87}
+\contentsline {subsection}{\numberline {5.3.1}Results}{32}{subsection.88}
+\contentsline {section}{\numberline {5.4}K-means}{33}{section.90}
+\contentsline {subsection}{\numberline {5.4.1}Results}{33}{subsection.91}
+\contentsline {section}{\numberline {5.5}Hierarchical Clustering}{34}{section.93}
+\contentsline {subsection}{\numberline {5.5.1}Results}{34}{subsection.94}
+\contentsline {section}{\numberline {5.6}Comparison of Algorithms}{35}{section.95}
+\contentsline {subsection}{\numberline {5.6.1}GO Analysis}{36}{subsection.98}
+\contentsline {section}{\numberline {5.7}Performance Evaluation}{40}{section.100}
+\contentsline {chapter}{\numberline {6}Conclusion}{41}{chapter.102}
+\contentsline {section}{\numberline {6.1}Summary}{41}{section.103}
+\contentsline {subsection}{\numberline {6.1.1}STEM To Determine Number of Clusters}{41}{subsection.104}
+\contentsline {subsection}{\numberline {6.1.2}No Algorithm Performs Better For All Data}{41}{subsection.105}
+\contentsline {section}{\numberline {6.2}Further Work}{42}{section.106}
+\contentsline {subsection}{\numberline {6.2.1}Different Algorithms}{42}{subsection.107}
+\contentsline {subsubsection}{Explore On Soft Clustering}{42}{section*.108}
+\contentsline {subsubsection}{Bayesian Approach}{42}{section*.109}
+\contentsline {subsection}{\numberline {6.2.2}Interaction Between Clusters}{43}{subsection.110}
+\contentsline {subsection}{\numberline {6.2.3}Other Distance Measures}{43}{subsection.111}
+\contentsline {chapter}{\numberline {A}Plots For RNA Bulk Mito}{45}{appendix.112}
+\contentsline {chapter}{\numberline {B}Plots For RNA Crude Mito}{50}{appendix.118}

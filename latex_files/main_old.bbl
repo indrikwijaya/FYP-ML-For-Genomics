@@ -1,0 +1,1398 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{none/global/}
+  \entry{Libbrecht2015}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LMW}{%
+         family={Libbrecht},
+         familyi={L\bibinitperiod},
+         given={Maxwell\bibnamedelima W.},
+         giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=NWS}{%
+         family={Noble},
+         familyi={N\bibinitperiod},
+         given={William\bibnamedelima Stafford},
+         giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \keyw{Genomics,Machine learning,Statistical methods}
+    \strng{namehash}{LMWNWS1}
+    \strng{fullhash}{LMWNWS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Machine learning methods are becoming increasingly important in the
+  analysis of large-scale genomic, epigenomic, proteomic and metabolic data
+  sets. In this Review, the authors consider the applications of supervised,
+  semi-supervised and unsupervised machine learning methods to genetic and
+  genomic studies. They provide general guidelines for the selection and
+  application of algorithms that are best suited to particular study designs.%
+    }
+    \verb{doi}
+    \verb 10.1038/nrg3920
+    \endverb
+    \field{issn}{1471-0056}
+    \field{number}{6}
+    \field{pages}{321\bibrangedash 332}
+    \field{title}{{Machine learning applications in genetics and genomics}}
+    \verb{url}
+    \verb http://www.nature.com/articles/nrg3920
+    \endverb
+    \field{volume}{16}
+    \verb{file}
+    \verb :Users/indrikwijaya/Library/Application Support/Mendeley Desktop/Down
+    \verb loaded/Libbrecht, Noble - 2015 - Machine learning applications in gen
+    \verb etics and genomics.pdf:pdf
+    \endverb
+    \field{journaltitle}{Nature Reviews Genetics}
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Kellis}{article}{}
+    \field{labeltitlesource}{title}
+    \field{title}{{MIT{\_}ComputationalBiology}}
+    \verb{file}
+    \verb :Users/indrikwijaya/Library/Application Support/Mendeley Desktop/Down
+    \verb loaded/Unknown - Unknown - MIT{\_}ComputationalBiology(2).pdf:pdf
+    \endverb
+  \endentry
+
+  \entry{Alberts2002}{article}{}
+    \name{author}{6}{}{%
+      {{hash=AB}{%
+         family={Alberts},
+         familyi={A\bibinitperiod},
+         given={Bruce},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=JA}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lewis},
+         familyi={L\bibinitperiod},
+         given={Julian},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Raff},
+         familyi={R\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RK}{%
+         family={Roberts},
+         familyi={R\bibinitperiod},
+         given={Keith},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=WP}{%
+         family={Walter},
+         familyi={W\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Garland Science}%
+    }
+    \strng{namehash}{AB+1}
+    \strng{fullhash}{ABJALJRMRKWP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{{The Genetic Systems of Mitochondria and Plastids}}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/books/NBK26924/
+    \endverb
+    \field{year}{2002}
+  \endentry
+
+  \entry{Couvillion2016}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CMT}{%
+         family={Couvillion},
+         familyi={C\bibinitperiod},
+         given={Mary\bibnamedelima T},
+         giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=SIC}{%
+         family={Soto},
+         familyi={S\bibinitperiod},
+         given={Iliana\bibnamedelima C},
+         giveni={I\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Shipkovenska},
+         familyi={S\bibinitperiod},
+         given={Gergana},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=CLS}{%
+         family={Churchman},
+         familyi={C\bibinitperiod},
+         given={L\bibnamedelima Stirling},
+         giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CMT+1}
+    \strng{fullhash}{CMTSICSGCLS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Oxidative phosphorylation (OXPHOS) is fundamental for life. OXPHOS
+  complexes pose a unique challenge for the cell, because their subunits are
+  encoded on two different genomes, the nuclear genome and the mitochondrial
+  genome. Genomic approaches designed to study nuclear/cytosolic and bacterial
+  gene expression have not been broadly applied to the mitochondrial system;
+  thus the co-regulation of OXPHOS genes remains largely unexplored. Here we
+  globally monitored mitochondrial and nuclear gene expression processes in
+  Saccharomyces cerevisiae during mitochondrial biogenesis, when OXPHOS
+  complexes are synthesized. Nuclear-and mitochondrial-encoded OXPHOS
+  transcript levels do not increase concordantly. Instead, we observe that
+  mitochondrial and cytosolic translation are rapidly and dynamically regulated
+  in a strikingly synchronous fashion. Furthermore, the coordinated translation
+  programs are controlled unidirectionally through the intricate and dynamic
+  control of cytosolic translation. Thus the nuclear genome carefully directs
+  the coordination of mitochondrial and cytosolic translation to orchestrate
+  the timely synthesis of each OXPHOS complex, representing an unappreciated
+  regulatory layer shaping the mitochondrial proteome. Our whole-cell genomic
+  profiling approach establishes a foundation for global gene regulatory
+  studies of mitochondrial biology.%
+    }
+    \verb{doi}
+    \verb 10.1038/nature18015
+    \endverb
+    \verb{eprint}
+    \verb 15334406
+    \endverb
+    \field{isbn}{0000000000000}
+    \field{issn}{1527-5418}
+    \field{number}{7604}
+    \field{pages}{499\bibrangedash 503}
+    \field{title}{{Synchronized translation programs across compartments during
+  mitochondrial biogenesis}}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4964289/pdf/nihms-779824
+    \verb .pdf
+    \endverb
+    \field{volume}{533}
+    \verb{file}
+    \verb :Users/indrikwijaya/Dropbox/Indrik{\_}FYP/Notes{\&}Papers/papers{\_}f
+    \verb or{\_}fyp/stirling.pdf:pdf
+    \endverb
+    \field{eprinttype}{arXiv}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Eisen14863}{article}{}
+    \name{author}{4}{}{%
+      {{hash=EMB}{%
+         family={Eisen},
+         familyi={E\bibinitperiod},
+         given={Michael\bibnamedelima B.},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=SPT}{%
+         family={Spellman},
+         familyi={S\bibinitperiod},
+         given={Paul\bibnamedelima T.},
+         giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=BPO}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={Patrick\bibnamedelima O.},
+         giveni={P\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Botstein},
+         familyi={B\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {National Academy of Sciences}%
+    }
+    \strng{namehash}{EMB+1}
+    \strng{fullhash}{EMBSPTBPOBD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    A system of cluster analysis for genome-wide expression data from DNA
+  microarray hybridization is described that uses standard statistical
+  algorithms to arrange genes according to similarity in pattern of gene
+  expression. The output is displayed graphically, conveying the clustering and
+  the underlying expression data simultaneously in a form intuitive for
+  biologists. We have found in the budding yeast Saccharomyces cerevisiae that
+  clustering gene expression data groups together efficiently genes of known
+  similar function, and we find a similar tendency in human data. Thus patterns
+  seen in genome-wide expression experiments can be interpreted as indications
+  of the status of cellular processes. Also, coexpression of genes of known
+  function with poorly characterized or novel genes may provide a simple means
+  of gaining leads to the functions of many genes for which information is not
+  available currently.%
+    }
+    \verb{eprint}
+    \verb http://www.pnas.org/content/95/25/14863.full.pdf
+    \endverb
+    \field{issn}{0027-8424}
+    \field{number}{25}
+    \field{pages}{14863\bibrangedash 14868}
+    \field{title}{Cluster analysis and display of genome-wide expression
+  patterns}
+    \verb{url}
+    \verb http://www.pnas.org/content/95/25/14863
+    \endverb
+    \field{volume}{95}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences}
+    \field{year}{1998}
+  \endentry
+
+  \entry{Eirola}{article}{}
+    \name{author}{2}{}{%
+      {{hash=EE}{%
+         family={Eirola},
+         familyi={E\bibinitperiod},
+         given={Emil},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Lendasse},
+         familyi={L\bibinitperiod},
+         given={Amaury},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Gaussian mixture model,missing data,time series}
+    \strng{namehash}{EELA1}
+    \strng{fullhash}{EELA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Gaussian mixture models provide an appealing tool for time series
+  modelling. By embedding the time series to a higher-dimensional space, the
+  density of the points can be estimated by a mixture model. The model can
+  directly be used for short-to-medium term forecasting and missing value
+  imputation. The modelling setup introduces some restric-tions on the mixture
+  model, which when appropriately taken into account result in a more accurate
+  model. Experiments on time series forecasting show that including the
+  constraints in the training phase particularly re-duces the risk of
+  overfitting in challenging situations with missing values or a large number
+  of Gaussian components.%
+    }
+    \field{title}{{Gaussian Mixture Models for Time Series Modelling,
+  Forecasting, and Interpolation}}
+    \verb{file}
+    \verb :Users/indrikwijaya/Library/Application Support/Mendeley Desktop/Down
+    \verb loaded/Eirola, Lendasse - Unknown - Gaussian Mixture Models for Time
+    \verb Series Modelling, Forecasting, and Interpolation.pdf:pdf
+    \endverb
+  \endentry
+
+  \entry{Ramoni9121}{article}{}
+    \name{author}{3}{}{%
+      {{hash=RMF}{%
+         family={Ramoni},
+         familyi={R\bibinitperiod},
+         given={Marco\bibnamedelima F.},
+         giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Sebastiani},
+         familyi={S\bibinitperiod},
+         given={Paola},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KIS}{%
+         family={Kohane},
+         familyi={K\bibinitperiod},
+         given={Isaac\bibnamedelima S.},
+         giveni={I\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {National Academy of Sciences}%
+    }
+    \strng{namehash}{RMFSPKIS1}
+    \strng{fullhash}{RMFSPKIS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    This article presents a Bayesian method for model-based clustering of gene
+  expression dynamics. The method represents gene-expression dynamics as
+  autoregressive equations and uses an agglomerative procedure to search for
+  the most probable set of clusters given the available data. The main
+  contributions of this approach are the ability to take into account the
+  dynamic nature of gene expression time series during clustering and a
+  principled way to identify the number of distinct clusters. As the number of
+  possible clustering models grows exponentially with the number of observed
+  time series, we have devised a distance-based heuristic search procedure able
+  to render the search process feasible. In this way, the method retains the
+  important visualization capability of traditional distance-based clustering
+  and acquires an independent, principled measure to decide when two series are
+  different enough to belong to different clusters. The reliance of this method
+  on an explicit statistical representation of gene expression dynamics makes
+  it possible to use standard statistical techniques to assess the goodness of
+  fit of the resulting model and validate the underlying assumptions. A set of
+  gene-expression time series, collected to study the response of human
+  fibroblasts to serum, is used to identify the properties of the method.%
+    }
+    \verb{doi}
+    \verb 10.1073/pnas.132656399
+    \endverb
+    \verb{eprint}
+    \verb http://www.pnas.org/content/99/14/9121.full.pdf
+    \endverb
+    \field{issn}{0027-8424}
+    \field{number}{14}
+    \field{pages}{9121\bibrangedash 9126}
+    \field{title}{Cluster analysis of gene expression dynamics}
+    \verb{url}
+    \verb http://www.pnas.org/content/99/14/9121
+    \endverb
+    \field{volume}{99}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences}
+    \field{year}{2002}
+  \endentry
+
+  \entry{Bar-Joseph}{article}{}
+    \name{author}{5}{}{%
+      {{hash=BJZ}{%
+         family={Bar-Joseph},
+         familyi={B\bibinitperiod-J\bibinitperiod},
+         given={Ziv},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=GG}{%
+         family={Gerber},
+         familyi={G\bibinitperiod},
+         given={Georg},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Simon},
+         familyi={S\bibinitperiod},
+         given={Itamar},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=GDK}{%
+         family={Gifford},
+         familyi={G\bibinitperiod},
+         given={David\bibnamedelima K.},
+         giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=JTS}{%
+         family={Jaakkola},
+         familyi={J\bibinitperiod},
+         given={Tommi\bibnamedelima S.},
+         giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {National Academy of Sciences}%
+    }
+    \strng{namehash}{BJZ+1}
+    \strng{fullhash}{BJZGGSIGDKJTS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    We present a general algorithm to detect genes differentially expressed
+  between two nonhomogeneous time-series data sets. As increasing amounts of
+  high-throughput biological data become available, a major challenge in
+  genomic and computational biology is to develop methods for comparing data
+  from different experimental sources. Time-series whole-genome expression data
+  are a particularly valuable source of information because they can describe
+  an unfolding biological process such as the cell cycle or immune response.
+  However, comparisons of time-series expression data sets are hindered by
+  biological and experimental inconsistencies such as differences in sampling
+  rate, variations in the timing of biological processes, and the lack of
+  repeats. Our algorithm overcomes these difficulties by using a continuous
+  representation for time-series data and combining a noise model for
+  individual samples with a global difference measure. We introduce a
+  corresponding statistical method for computing the significance of this
+  differential expression measure. We used our algorithm to compare
+  cell-cycle-dependent gene expression in wild-type and knockout yeast strains.
+  Our algorithm identified a set of 56 differentially expressed genes, and
+  these results were validated by using independent protein-DNA-binding data.
+  Unlike previous methods, our algorithm was also able to identify 22
+  non-cell-cycle-regulated genes as differentially expressed. This set of genes
+  is significantly correlated in a set of independent expression experiments,
+  suggesting additional roles for the transcription factors Fkh1 and Fkh2 in
+  controlling cellular activity in yeast.%
+    }
+    \verb{doi}
+    \verb 10.1073/pnas.1732547100
+    \endverb
+    \verb{eprint}
+    \verb http://www.pnas.org/content/100/18/10146.full.pdf
+    \endverb
+    \field{issn}{0027-8424}
+    \field{number}{18}
+    \field{pages}{10146\bibrangedash 10151}
+    \field{title}{Comparing the continuous representation of time-series
+  expression profiles to identify differentially expressed genes}
+    \verb{url}
+    \verb http://www.pnas.org/content/100/18/10146
+    \endverb
+    \field{volume}{100}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Rabiner1989}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RLR}{%
+         family={Rabiner},
+         familyi={R\bibinitperiod},
+         given={Lawrence\bibnamedelima R.},
+         giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RLR1}
+    \strng{fullhash}{RLR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    This tutorial provides an overview of the basic theory of hidden Markov
+  models (HMMs) as originated by L.E. Baum and T. Petrie (1966) and gives
+  practical details on methods of implementation of the theory along with a
+  description of selected applications of the theory to distinct problems in
+  speech recognition. Results from a number of original sources are combined to
+  provide a single source of acquiring the background required to pursue
+  further this area of research. The author first reviews the theory of
+  discrete Markov chains and shows how the concept of hidden states, where the
+  observation is a probabilistic function of the state, can be used
+  effectively. The theory is illustrated with two simple examples, namely
+  coin-tossing, and the classic balls-in-urns system. Three fundamental
+  problems of HMMs are noted and several practical techniques for solving these
+  problems are given. The various types of HMMs that have been studied,
+  including ergodic as well as left-right models, are described%
+    }
+    \verb{doi}
+    \verb 10.1109/5.18626
+    \endverb
+    \verb{eprint}
+    \verb arXiv:1011.1669v3
+    \endverb
+    \field{isbn}{1558601244}
+    \field{issn}{15582256}
+    \field{title}{{A Tutorial on Hidden Markov Models and Selected Applications
+  in Speech Recognition}}
+    \verb{file}
+    \verb :Users/indrikwijaya/Library/Application Support/Mendeley Desktop/Down
+    \verb loaded/Rabiner - 1989 - A Tutorial on Hidden Markov Models and Select
+    \verb ed Applications in Speech Recognition.pdf:pdf
+    \endverb
+    \field{journaltitle}{Proceedings of the IEEE}
+    \field{eprinttype}{arXiv}
+    \field{year}{1989}
+  \endentry
+
+  \entry{Schliep2003}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SA}{%
+         family={Schliep},
+         familyi={S\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sch{\"{o}}nhuth},
+         familyi={S\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Steinhoff},
+         familyi={S\bibinitperiod},
+         given={Christine},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \keyw{Gene Expression,Hidden Markov models,Model-based clustering,Time
+  course}
+    \strng{namehash}{SASASC1}
+    \strng{fullhash}{SASASC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    MOTIVATION: Cellular processes cause changes over time. Observing and
+  measuring those changes over time allows insights into the how and why of
+  regulation. The experimental platform for doing the appropriate large-scale
+  experiments to obtain time-courses of expression levels is provided by
+  microarray technology. However, the proper way of analyzing the resulting
+  time course data is still very much an issue under investigation. The
+  inherent time dependencies in the data suggest that clustering techniques
+  which reflect those dependencies yield improved performance. RESULTS: We
+  propose to use Hidden Markov Models (HMMs) to account for the horizontal
+  dependencies along the time axis in time course data and to cope with the
+  prevalent errors and missing values. The HMMs are used within a model-based
+  clustering framework. We are given a number of clusters, each represented by
+  one Hidden Markov Model from a finite collection encompassing typical
+  qualitative behavior. Then, our method finds in an iterative procedure
+  cluster models and an assignment of data points to these models that
+  maximizes the joint likelihood of clustering and models. Partially supervised
+  learning--adding groups of labeled data to the initial collection of
+  clusters--is supported. A graphical user interface allows querying an
+  expression profile dataset for time course similar to a prototype graphically
+  defined as a sequence of levels and durations. We also propose a heuristic
+  approach to automate determination of the number of clusters. We evaluate the
+  method on published yeast cell cycle and fibroblasts serum response datasets,
+  and compare them, with favorable results, to the autoregressive curves
+  method.%
+    }
+    \verb{doi}
+    \verb 10.1093/bioinformatics/btg1036
+    \endverb
+    \field{isbn}{13674803 (ISSN)}
+    \field{issn}{13674803}
+    \field{number}{SUPPL. 1}
+    \field{title}{{Using hidden Markov models to analyze gene expression time
+  course data}}
+    \field{volume}{19}
+    \verb{file}
+    \verb :Users/indrikwijaya/Dropbox/Indrik{\_}FYP/Notes{\&}Papers/papers{\_}f
+    \verb or{\_}fyp/using hidden markov models to analyze gene expression time
+    \verb course data.pdf:pdf
+    \endverb
+    \field{journaltitle}{Bioinformatics}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Wang}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WF}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Fei},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=ZC}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Changshui},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WFZC1}
+    \strng{fullhash}{WFZC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    This paper presents a general framework for time series clus-tering based
+  on spectral decomposition of the affinity matrix. We use the Gaussian
+  function to construct the affinity matrix and develop a gradient based method
+  for self-tuning the variance of the Gaussian function. The feasibility of our
+  method is guaranteed by the theoretical inference in this paper. And our
+  approach can be used to cluster both constant and variable length time
+  series. Further our analysis shows that the cluster number is governed by the
+  eigenstructure of the normalized affinity ma-trix. Thus our algorithm is able
+  to discover the optimal number of clus-ters automatically. Finally
+  experimental results are presented to show the effectiveness of our method.%
+    }
+    \field{title}{{Spectral Clustering for Time Series}}
+    \verb{file}
+    \verb :Users/indrikwijaya/Library/Application Support/Mendeley Desktop/Down
+    \verb loaded/Wang, Zhang - Unknown - Spectral Clustering for Time Series.pd
+    \verb f:pdf
+    \endverb
+  \endentry
+
+  \entry{Ma2006}{article}{}
+    \name{author}{4}{}{%
+      {{hash=MP}{%
+         family={Ma},
+         familyi={M\bibinitperiod},
+         given={Ping},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CDCI}{%
+         family={Castillo-Davis},
+         familyi={C\bibinitperiod-D\bibinitperiod},
+         given={Cristian\bibnamedelima I.},
+         giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=ZW}{%
+         family={Zhong},
+         familyi={Z\bibinitperiod},
+         given={Wenxuan},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=LJS}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Jun\bibnamedelima S.},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MP+1}
+    \strng{fullhash}{MPCDCIZWLJS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Gene expression over time is, biologically, a continuous process and can
+  thus be represented by a continuous function, i.e. a curve. Individual genes
+  often share similar expression patterns (functional forms). However, the
+  shape of each function, the number of such functions, and the genes that
+  share similar functional forms are typically unknown. Here we introduce an
+  approach that allows direct discovery of related patterns of gene expression
+  and their underlying functions (curves) from data without a priori
+  specification of either cluster number or functional form. Smoothing spline
+  clustering (SSC) models natural properties of gene expression over time,
+  taking into account natural differences in gene expression within a cluster
+  of similarly expressed genes, the effects of experimental measurement error,
+  and missing data. Furthermore, SSC provides a visual summary of each
+  cluster's gene expression function and goodness-of-fit by way of a 'mean
+  curve' construct and its associated confidence bands. We apply this method to
+  gene expression data over the life-cycle of Drosophila melanogaster and
+  Caenorhabditis elegans to discover 17 and 16 unique patterns of gene
+  expression in each species, respectively. New and previously described
+  expression patterns in both species are discovered, the majority of which are
+  biologically meaningful and exhibit statistically significant gene function
+  enrichment. Software and source code implementing the algorithm, SSClust, is
+  freely available (http://genemerge.bioteam.net/SSClust.html).%
+    }
+    \verb{doi}
+    \verb 10.1093/nar/gkl013
+    \endverb
+    \field{isbn}{03051048 (ISSN)}
+    \field{issn}{03051048}
+    \field{title}{{A data-driven clustering method for time course gene
+  expression data}}
+    \verb{file}
+    \verb :Users/indrikwijaya/Library/Application Support/Mendeley Desktop/Down
+    \verb loaded/Ma et al. - 2006 - A data-driven clustering method for time co
+    \verb urse gene expression data.pdf:pdf
+    \endverb
+    \field{journaltitle}{Nucleic Acids Research}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Golumbeanu2017}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GM}{%
+         family={Golumbeanu},
+         familyi={G\bibinitperiod},
+         given={Monica},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BN}{%
+         family={Beerenwinkel},
+         familyi={B\bibinitperiod},
+         given={Niko},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GMBN1}
+    \strng{fullhash}{GMBN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    A large number of longitudinal studies measuring gene expression aim to
+  stratify the genes according to their differential temporal behaviors. Genes
+  with similar expression patterns may reflect functional responses of
+  biological relevance. However, these measurements come with intrinsic noise
+  which makes their time series clustering a difficult task. Here, we show how
+  to cluster such data with the package TMixClust. TMixClust is a
+  soft-clustering method which employs mixed-effects models with nonparametric
+  smoothing spline fitting and is able to robustly stratify genes by their
+  complex time series patterns. The package has, besides the main clustering
+  method, a set of functionalities assisting the user to visualise and assess
+  the clustering results, and to choose the optimal clustering solution. In
+  this manual, we present the general workflow of using TMixClust for analysing
+  time series gene expression data and explain the theoretical background of
+  the clustering method used in the package implementation.%
+    }
+    \field{title}{{Clustering time series gene expression data with TMixClust}}
+    \verb{file}
+    \verb :Users/indrikwijaya/Library/Application Support/Mendeley Desktop/Down
+    \verb loaded/Golumbeanu, Beerenwinkel - 2017 - Clustering time series gene
+    \verb expression data with TMixClust.pdf:pdf
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{Zhang2014}{article}{}
+    \name{author}{4}{}{%
+      {{hash=ZY}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Yafeng},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={Horvath},
+         familyi={H\bibinitperiod},
+         given={Steve},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=OR}{%
+         family={Ophoff},
+         familyi={O\bibinitperiod},
+         given={Roel},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=TD}{%
+         family={Telesca},
+         familyi={T\bibinitperiod},
+         given={Donatello},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \keyw{()}
+    \strng{namehash}{ZY+1}
+    \strng{fullhash}{ZYHSORTD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Time course microarray data provide insight about dynamic biological
+  processes. While several clustering methods have been proposed for the
+  analysis of these data structures, comparison and selection of appropriate
+  clustering methods are seldom discussed. We compared 3 probabilistic based
+  clustering methods and 3 distance based clustering methods for time course
+  microarray data. Among probabilistic methods, we considered: smoothing spline
+  clustering also known as model based functional data analysis (MFDA),
+  functional clustering models for sparsely sam-pled data (FCM) and model-based
+  clustering (MCLUST). Among distance based methods, we considered: weighted
+  gene co-expression network analysis (WGCNA), clustering with dynamic time
+  warping distance (DTW) and clustering with autocorrelation based distance
+  (ACF). We studied these algorithms in both simulated settings and case study
+  data. Our investigations showed that FCM performed very well when gene curves
+  were short and sparse. DTW and WGCNA performed well when gene curves were
+  medium or long ({\textgreater}= 10 observations). SSC performed very well
+  when there were clusters of gene curves similar to one another. Overall, ACF
+  performed poorly in these applications. In terms of computation time, FCM,
+  SSC and DTW were considerably slower than MCLUST and WGCNA. WGCNA
+  outperformed MCLUST by generating more accurate and biological meaningful
+  clustering results. WGCNA and MCLUST are the best methods among the 6 methods
+  compared, when performance and computation time are both taken into account.
+  WGCNA outperforms MCLUST, but MCLUST provides model based inference and
+  uncertainty measure of clustering results. Genome wide microarray data record
+  expression levels of thousands genes simultaneously, by measuring the amount
+  of cRNA attached to DNA sequence probes on a microarray chip. It has been
+  shown that co-regulated genes are also co-expressed [1, 2]. Therefore,
+  clustering methods identifying groups of co-expressed genes have proven to be
+  powerful tools in the study of genetic functions and biological processes.
+  Similarly, DNA methylation microarray analysis measures methylation levels
+  for thousands of DNA sequence probes. A gene is methylated when a methyl
+  group is attached to its DNA sequence, which, in turn, stops the gene's
+  expression and its biological function. Clustering analysis on DNA
+  methylation data provides us an opportunity to learn what genes are turned
+  off collectively during biological processes. Time course microarray data,
+  where gene expression or methylation levels are measured over time, provide a
+  good opportunity to understand the dynamics of biological systems and how
+  gene activity evolves during biological processes. Genes with similar
+  profiles are more likely to be co-regulated or involved in the same
+  biological functions. To make full use of time course microarray data, one
+  needs to take into account the time sequence and time dependence of
+  observations. An important and widely used class of clustering methods is
+  distance based clustering. These techniques compute distance measures between
+  data points and identify clusters according to partition algorithms. Here, we
+  describe several classic examples. In hierarchical clustering, a matrix
+  storing Euclidean distances between data points is used as the input to the
+  clustering procedure, where close data points form clusters first, and then
+  close clusters form bigger clus-ters until there is only one cluster. The
+  hierarchical clustering structure can be represented by a dendrogram, a tree
+  diagram in which leaves correspond to data points and branches represent
+  clusters [3, 1]. In k-means clustering [4, 5], cluster centroid are provided
+  as input to the pro-cedure, then the following two steps are repeated
+  iteratively, until clustering structure becomes stable: 1. each data point is
+  assigned to a cluster whose centroid it is closest to in terms of certain
+  distance measure; 2. cluster centroids are computed as the mean of data
+  points in each cluster. Weighted Gene Co-expression Network Analysis (WGCNA)
+  uses a biologically more relevant distance measure in hierarchical clustering
+  to form clusters of genes [6, 7]. Specific distance measures can also be
+  defined for functional data and used in distance based clustering methods.
+  For example, Time warping distances are defined by computing distances
+  between time transformation functions that are estimated to model curves'
+  transformed time scales in a functional data registration model [8]. An
+  alternative approach to data partitioning is model-based or probabilistic
+  clustering. These methods assume that data are sampled from a mixture of
+  underlying probability dis-tributions [9]. Given the number of clusters,
+  parameter estimation is usually carried out by EM algorithm. The number of
+  clusters can be determined as a model selection problem via some criteria,
+  such as Bayesian information criterion (BIC). Its application to clustering
+  gene expression data was first discussed in [10], where a Gaussian mixture
+  model was used. Several probabilistic clustering methods have been proposed
+  specifically for functional data, 2%
+    }
+    \verb{eprint}
+    \verb arXiv:1404.7534v1
+    \endverb
+    \field{title}{{Comparison of Clustering Methods for Time Course Genomic
+  Data: Applications to Aging Effects}}
+    \verb{file}
+    \verb :Users/indrikwijaya/Library/Application Support/Mendeley Desktop/Down
+    \verb loaded/Zhang et al. - 2014 - Comparison of Clustering Methods for Tim
+    \verb e Course Genomic Data Applications to Aging Effects.pdf:pdf
+    \endverb
+    \field{eprinttype}{arXiv}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Jia2008}{article}{}
+    \name{author}{2}{}{%
+      {{hash=JZ}{%
+         family={Jia},
+         familyi={J\bibinitperiod},
+         given={Zhenyu},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=XS}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Shizhong},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JZXS1}
+    \strng{fullhash}{JZXS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Control-treatment design is widely used in microarray gene expression
+  experiments. The purpose of such a design is to detect genes that express
+  differentially between the control and the treatment. Many statistical
+  procedures have been developed to detect differentially expressed genes, but
+  all have pros and cons and room is still open for improvement. In this study,
+  we propose a Bayesian mixture model approach to classifying genes into one of
+  three clusters, corresponding to clusters of downregulated, neutral, and
+  upregulated genes, respectively. The Bayesian method is implemented via the
+  Markov chain Monte Carlo (MCMC) algorithm. The cluster means of down- and
+  upregulated genes are sampled from truncated normal distributions whereas the
+  cluster mean of the neutral genes is set to zero. Using simulated data as
+  well as data from a real microarray experiment, we demonstrate that the new
+  method outperforms all methods commonly used in differential expression
+  analysis.%
+    }
+    \verb{doi}
+    \verb 10.1155/2008/892927
+    \endverb
+    \field{issn}{16875370}
+    \field{title}{{Bayesian mixture model analysis for detecting differentially
+  expressed genes}}
+    \field{volume}{2008}
+    \verb{file}
+    \verb :Users/indrikwijaya/Dropbox/Indrik{\_}FYP/Notes{\&}Papers/papers{\_}f
+    \verb or{\_}fyp/892927.pdf:pdf
+    \endverb
+    \field{journaltitle}{International Journal of Plant Genomics}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Ernst2005}{article}{}
+    \name{author}{3}{}{%
+      {{hash=EJ}{%
+         family={Ernst},
+         familyi={E\bibinitperiod},
+         given={Jason},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=NGJ}{%
+         family={Nau},
+         familyi={N\bibinitperiod},
+         given={Gerard\bibnamedelima J.},
+         giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BJZ}{%
+         family={Bar-Joseph},
+         familyi={B\bibinitperiod-J\bibinitperiod},
+         given={Ziv},
+         giveni={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EJNGJBJZ1}
+    \strng{fullhash}{EJNGJBJZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Motivation: Time series expression experiments are used to study a wide
+  range of biological systems. More than 80{\%} of all time series expression
+  datasets are short (8 time points or fewer). These datasets present unique
+  challenges. On account of the large number of genes profiled (often tens of
+  thousands) and the small number of time points many patterns are expected to
+  arise at random. Most clustering algorithms are unable to distinguish between
+  real and random patterns. Results: We present an algorithm specifically
+  designed for clustering short time series expression data. Our algorithm
+  works by assigning genes to a predefined set of model pro-files that capture
+  the potential distinct patterns that can be expected from the experiment. We
+  discuss how to obtain such a set of profiles and how to determine the
+  significance of each of these profiles. Significant profiles are retained for
+  further analysis and can be combined to form clusters. We tested our method
+  on both simulated and real biological data. Using immune response data we
+  show that our algorithm can correctly detect the temporal profile of relevant
+  functional categories. Using Gene Ontology analysis we show that our
+  algorithm outperforms both general clustering algorithms and algorithms
+  designed specifically for clustering time series gene expression data.
+  Availability: Information on obtaining a Java implementation with a graphical
+  user interface (GUI) is available from%
+    }
+    \verb{doi}
+    \verb 10.1093/bioinformatics/bti1022
+    \endverb
+    \field{isbn}{1367-4803}
+    \field{title}{{Clustering short time series gene expression data}}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1456994/pdf/1471-2105-7-
+    \verb 191.pdf
+    \endverb
+    \verb{file}
+    \verb :Users/indrikwijaya/Library/Application Support/Mendeley Desktop/Down
+    \verb loaded/Ernst, Nau, Bar-Joseph - 2005 - Clustering short time series g
+    \verb ene expression data.pdf:pdf
+    \endverb
+    \field{journaltitle}{Bioinformatics}
+    \field{year}{2005}
+  \endentry
+
+  \entry{Gupta}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GMR}{%
+         family={Gupta},
+         familyi={G\bibinitperiod},
+         given={Maya\bibnamedelima R.},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Yihua},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GMRCY1}
+    \strng{fullhash}{GMRCY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1561/2000000034
+    \endverb
+    \field{issn}{1932-8346}
+    \field{number}{3}
+    \field{pages}{223\bibrangedash 296}
+    \field{title}{Theory and Use of the EM Algorithm}
+    \verb{url}
+    \verb http://dx.doi.org/10.1561/2000000034
+    \endverb
+    \field{volume}{4}
+    \field{journaltitle}{Foundations and Trends® in Signal Processing}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Bishop2013}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BCM}{%
+         family={Bishop},
+         familyi={B\bibinitperiod},
+         given={Christopher\bibnamedelima M},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BCM1}
+    \strng{fullhash}{BCM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The dramatic growth in practical applications for machine learning over the
+  last ten years has been accompanied by many important developments in the
+  underlying algorithms and techniques. For example, Bayesian methods have
+  grown from a specialist niche to become mainstream, while graphical models
+  have emerged as a general framework for describing and applying probabilistic
+  techniques. The practical applicability of Bayesian methods has been greatly
+  enhanced by the development of a range of approximate inference algorithms
+  such as variational Bayes and expectation propagation, while new models based
+  on kernels have had a significant impact on both algorithms and applications.
+  This completely new textbook reflects these recent developments while
+  providing a comprehensive introduction to the fields of pattern recognition
+  and machine learning. It is aimed at advanced undergraduates or first-year
+  PhD students, as well as researchers and practitioners. No previous knowledge
+  of pattern recognition or machine learning concepts is assumed. Familiarity
+  with multivariate calculus and basic linear algebra is required, and some
+  experience in the use of probabilities would be helpful though not essential
+  as the book includes a self-contained introduction to basic probability
+  theory. The book is suitable for courses on machine learning, statistics,
+  computer science, signal processing, computer vision, data mining, and
+  bioinformatics. Extensive support is provided for course instructors,
+  including more than 400 exercises, graded according to difficulty. Example
+  solutions for a subset of the exercises are available from the book web site,
+  while solutions for the remainder can be obtained by instructors from the
+  publisher. The book is supported by a great deal of additional material, and
+  the reader is encouraged to visit the book web site for the latest
+  information. Christopher M. Bishop is Deputy Director of Microsoft Research
+  Cambridge, and holds a Chair in Computer Science at the University of
+  Edinburgh. He is a Fellow of Darwin College Cambridge, a Fellow of the Royal
+  Academy of Engineering, and a Fellow of the Royal Society of Edinburgh. His
+  previous textbook "Neural Networks for Pattern Recognition" has been widely
+  adopted.%
+    }
+    \field{booktitle}{Journal of Chemical Information and Modeling}
+    \verb{doi}
+    \verb 10.1117/1.2819119
+    \endverb
+    \verb{eprint}
+    \verb arXiv:1011.1669v3
+    \endverb
+    \field{isbn}{978-0-387-31073-2}
+    \field{issn}{1098-6596}
+    \field{number}{9}
+    \field{pages}{1689\bibrangedash 1699}
+    \field{title}{{Pattern Recognition and Machine Learning}}
+    \field{volume}{53}
+    \verb{file}
+    \verb :Users/indrikwijaya/Dropbox/Indrik{\_}FYP/Notes{\&}Papers/papers{\_}f
+    \verb or{\_}fyp/Bishop - 2013 - Pattern Recognition and Machine Learning.pd
+    \verb f:pdf
+    \endverb
+    \field{eprinttype}{arXiv}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Akaike1998}{inbook}{}
+    \name{author}{1}{}{%
+      {{hash=AH}{%
+         family={Akaike},
+         familyi={A\bibinitperiod},
+         given={Hirotogu},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=PE}{%
+         family={Parzen},
+         familyi={P\bibinitperiod},
+         given={Emanuel},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=TK}{%
+         family={Tanabe},
+         familyi={T\bibinitperiod},
+         given={Kunio},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=KG}{%
+         family={Kitagawa},
+         familyi={K\bibinitperiod},
+         given={Genshiro},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer New York}%
+    }
+    \strng{namehash}{AH1}
+    \strng{fullhash}{AH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    In this paper it is shown that the classical maximum likelihood principle
+  can be considered to be a method of asymptotic realization of an optimum
+  estimate with respect to a very general information theoretic criterion. This
+  observation shows an extension of the principle to provide answers to many
+  practical problems of statistical model fitting.%
+    }
+    \field{booktitle}{Selected Papers of Hirotugu Akaike}
+    \verb{doi}
+    \verb 10.1007/978-1-4612-1694-0_15
+    \endverb
+    \field{isbn}{978-1-4612-1694-0}
+    \field{pages}{199\bibrangedash 213}
+    \field{title}{Information Theory and an Extension of the Maximum Likelihood
+  Principle}
+    \verb{url}
+    \verb https://doi.org/10.1007/978-1-4612-1694-0_15
+    \endverb
+    \list{location}{1}{%
+      {New York, NY}%
+    }
+    \field{year}{1998}
+  \endentry
+
+  \entry{Schwarz1978}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SG}{%
+         family={Schwarz},
+         familyi={S\bibinitperiod},
+         given={Gideon},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SG1}
+    \strng{fullhash}{SG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The problem of selecting one of a number of models of different dimensions
+  is treated by finding its Bayes solution, and evaluating the leading terms of
+  its asymptotic expansion. These terms are a valid large-sample criterion
+  beyond the Bayesian context, since they do not depend on the a priori
+  distribution.%
+    }
+    \verb{doi}
+    \verb 10.1214/aos/1176344136
+    \endverb
+    \verb{eprint}
+    \verb arXiv:1011.1669v3
+    \endverb
+    \field{isbn}{0780394224}
+    \field{issn}{0090-5364}
+    \field{number}{2}
+    \field{pages}{461\bibrangedash 464}
+    \field{title}{{Estimating the Dimension of a Model}}
+    \verb{url}
+    \verb http://projecteuclid.org/euclid.aos/1176344136
+    \endverb
+    \field{volume}{6}
+    \verb{file}
+    \verb :Users/indrikwijaya/Dropbox/Indrik{\_}FYP/Notes{\&}Papers/papers{\_}f
+    \verb or{\_}fyp/bic.pdf:pdf
+    \endverb
+    \field{journaltitle}{The Annals of Statistics}
+    \field{eprinttype}{arXiv}
+    \field{year}{1978}
+  \endentry
+
+  \entry{Tibshirani2001}{misc}{}
+    \name{author}{3}{}{%
+      {{hash=TR}{%
+         family={Tibshirani},
+         familyi={T\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=WG}{%
+         family={Walther},
+         familyi={W\bibinitperiod},
+         given={Guenther},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=HT}{%
+         family={Hastie},
+         familyi={H\bibinitperiod},
+         given={Trevor},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TRWGHT1}
+    \strng{fullhash}{TRWGHT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    We propose a method (the â€˜gap statistic') for estimating the number of
+  clusters (groups) in a set of data. The technique uses the output of any
+  clustering algorithm (e.g. K-means or hierarchical), comparing the change in
+  within-cluster dispersion with that expected under an appropriate reference
+  null distribution. Some theory is developed for the proposal and a simulation
+  study shows that the gap statistic usually outperforms other methods that
+  have been proposed in the literature.%
+    }
+    \field{booktitle}{Journal of the Royal Statistical Society: Series B
+  (Statistical Methodology)}
+    \verb{doi}
+    \verb 10.1111/1467-9868.00293
+    \endverb
+    \field{isbn}{1369-7412}
+    \field{issn}{1369-7412}
+    \field{number}{2}
+    \field{pages}{411\bibrangedash 423}
+    \field{title}{{Estimating the number of clusters in a data set via the gap
+  statistic}}
+    \verb{url}
+    \verb http://doi.wiley.com/10.1111/1467-9868.00293
+    \endverb
+    \field{volume}{63}
+    \verb{file}
+    \verb :Users/indrikwijaya/Dropbox/Indrik{\_}FYP/Notes{\&}Papers/papers{\_}f
+    \verb or{\_}fyp/gap{\_}stats.pdf:pdf
+    \endverb
+    \field{year}{2001}
+  \endentry
+
+  \entry{Meila}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MM}{%
+         family={Meilaƒ},
+         familyi={M\bibinitperiod},
+         given={Marinaƒ},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MM1}
+    \strng{fullhash}{MM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{2006}
+    \field{title}{{The uniqueness of a good optimum for k-means}}
+    \verb{url}
+    \verb http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.78.2239
+    \endverb
+    \field{volume}{148}
+    \field{journaltitle}{ACM INTERNATIONAL CONFERENCE PROCEEDING SERIES}
+  \endentry
+
+  \entry{Papadimitriou}{book}{}
+    \name{author}{2}{}{%
+      {{hash=PCH}{%
+         family={Papadimitriou},
+         familyi={P\bibinitperiod},
+         given={Christos\bibnamedelima H.},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=SK}{%
+         family={Steiglitz},
+         familyi={S\bibinitperiod},
+         given={Kenneth},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Prentice-Hall, Inc.}%
+    }
+    \strng{namehash}{PCHSK1}
+    \strng{fullhash}{PCHSK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{isbn}{0-13-152462-3}
+    \field{title}{Combinatorial Optimization: Algorithms and Complexity}
+    \list{location}{1}{%
+      {Upper Saddle River, NJ, USA}%
+    }
+    \field{year}{1982}
+  \endentry
+
+  \entry{Sivriver2011}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SJ}{%
+         family={Sivriver},
+         familyi={S\bibinitperiod},
+         given={Julia},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HN}{%
+         family={Habib},
+         familyi={H\bibinitperiod},
+         given={Naomi},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=FN}{%
+         family={Friedman},
+         familyi={F\bibinitperiod},
+         given={Nir},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJHNFN1}
+    \strng{fullhash}{SJHNFN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    MOTIVATION: The precise dynamics of gene expression is often crucial for
+  proper response to stimuli. Time-course gene-expression profiles can provide
+  insights about the dynamics of many cellular responses, but are often noisy
+  and measured at arbitrary intervals, posing a major analysis challenge.
+  RESULTS: We developed an algorithm that interleaves clustering time-course
+  gene-expression data with estimation of dynamic models of their response by
+  biologically meaningful parameters. In combining these two tasks we overcome
+  obstacles posed in each one. Moreover, our approach provides an easy way to
+  compare between responses to different stimuli at the dynamical level. We use
+  our approach to analyze the dynamical transcriptional responses to
+  inflammation and anti-viral stimuli in mice primary dendritic cells, and
+  extract a concise representation of the different dynamical response types.
+  We analyze the similarities and differences between the two stimuli and
+  identify potential regulators of this complex transcriptional response.
+  AVAILABILITY: The code to our method is freely available
+  http://www.compbio.cs.huji.ac.il/DynaMiteC. CONTACT: nir@cs.huji.ac.il.%
+    }
+    \verb{doi}
+    \verb 10.1093/bioinformatics/btr250
+    \endverb
+    \field{isbn}{1367-4811 (Electronic)$\backslash$r1367-4803 (Linking)}
+    \field{issn}{13674803}
+    \field{number}{13}
+    \field{pages}{392\bibrangedash 400}
+    \field{title}{{An integrative clustering and modeling algorithm for
+  dynamical gene expression data}}
+    \field{volume}{27}
+    \verb{file}
+    \verb :Users/indrikwijaya/Dropbox/Indrik{\_}FYP/Notes{\&}Papers/papers{\_}f
+    \verb or{\_}fyp/DynaMiteC.pdf:pdf
+    \endverb
+    \field{journaltitle}{Bioinformatics}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Arthur2007}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AD}{%
+         family={Arthur},
+         familyi={A\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=VS}{%
+         family={Vassilvitskii},
+         familyi={V\bibinitperiod},
+         given={Sergei},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ADVS1}
+    \strng{fullhash}{ADVS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The k-means method is a widely used clustering technique that seeks to
+  minimize the average squared distance between points in the same cluster.
+  Although it offers no accuracy guarantees, its simplicity and speed are very
+  appealing in practice. By augmenting k-means with a very simple, randomized
+  seeding technique, we obtain an algorithm that is $\Theta$(logk)-competitive
+  with the optimal clustering. Preliminary experiments show that our
+  augmentation improves both the speed and the accuracy of k-means, often quite
+  dramatically.%
+    }
+    \verb{doi}
+    \verb 10.1145/1283383.1283494
+    \endverb
+    \verb{eprint}
+    \verb 1212.1121
+    \endverb
+    \field{isbn}{9780898716245}
+    \field{issn}{978-0-898716-24-5}
+    \field{pages}{1027\bibrangedash 1025}
+    \field{title}{{K-Means++: the Advantages of Careful Seeding}}
+    \field{volume}{8}
+    \verb{file}
+    \verb :Users/indrikwijaya/Dropbox/Indrik{\_}FYP/Notes{\&}Papers/papers{\_}f
+    \verb or{\_}fyp/k{\_}means{\_}plus.pdf:pdf
+    \endverb
+    \field{journaltitle}{Proceedings of the eighteenth annual ACM-SIAM
+  symposium on Discrete algorithms}
+    \field{eprinttype}{arXiv}
+    \field{year}{2007}
+  \endentry
+\endsortlist
+\endinput

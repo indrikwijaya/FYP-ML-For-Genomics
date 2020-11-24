@@ -1,0 +1,17 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Greedy Approximation Algorithm to choose a set of $m$ distinct profiles\relax }}{19}{table.caption.43}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Summary of EM Algorithm for GMM\relax }}{23}{table.caption.60}
+\contentsline {table}{\numberline {4.3}{\ignorespaces DIfferent Covariance Matrices\relax }}{24}{table.caption.67}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Gene count in each cluster for the different algorithms ($k=19$), total number of genes = $8675$\relax }}{35}{table.caption.96}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Gene count in each cluster for the different algorithms ($k=11$), total number of genes = $911$\relax }}{36}{table.caption.97}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Performance evaluation for the different algorithms (in \%), the underlined values are the best performing algorithm for that particular class of clustering\relax }}{40}{table.caption.101}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

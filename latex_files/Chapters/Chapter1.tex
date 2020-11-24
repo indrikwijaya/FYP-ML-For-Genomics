@@ -1,0 +1,67 @@
+% Chapter 1
+\chapter{Introduction and Preview} % Main chapter title
+
+\label{Chapter1} % For referencing the chapter elsewhere, use \ref{Chapter1} 
+
+%----------------------------------------------------------------------------------------
+
+% Define some commands to keep the formatting separated from the content 
+\newcommand{\keyword}[1]{\textbf{#1}}
+\newcommand{\tabhead}[1]{\textbf{#1}}
+\newcommand{\code}[1]{\texttt{#1}}
+\newcommand{\file}[1]{\texttt{\bfseries#1}}
+\newcommand{\option}[1]{\texttt{\itshape#1}}
+
+%----------------------------------------------------------------------------------------
+
+\section{Machine Learning}
+%packt and hans-on machine learning algo reference
+Machine learning is a method of data analysis that automates analytical model building. Using algorithms that learn from data, machine learning allows computers to find hidden insights or patterns without being explicitly programmed where to look. In short, it involves the development of self-learning algorithms to gain knowledge from that data.
+
+Instead of requiring humans to manually derive rules and build models from analyzing large amounts of data, machine learning offers a more efficient alternative for capturing the knowledge in data to gradually improve the performance of predictive models, and make data-driven decisions. Not only is machine learning becoming increasingly important in computer science research but it also plays an ever greater role in our everyday life. Thanks to machine learning, we enjoy robust e-mail spam filters, convenient text and voice recognition software, reliable Web search engine, challenging chess players, and, hopefully soon, safe and efficient self-driving cars.
+
+Biology is also another field that has enjoyed tremendous development due to the rampant use of machine learning algorithms \cite{Libbrecht2015} and increasing capability to generate biological data with lower cost and shorter time. Analysis of genome sequencing data sets, including the annotation of sequence elements and epigenetics, proteomic and metabolomic data is one example on how machine learning has helped provide more insights in Biology to understand our lives better.
+
+\subsection{Unsupervised Learning, Supervised Learning, Semi-supervised Learning}
+Machine Learning systems can be classified according to the amount and type of supervision they get during training. There are three major categories: supervised, unsupervised learning, semi-supervised learning. In \textit{supervised learning}, the training data we used in the algorithm include the desired solutions, called \textit{labels}. A typical supervised learning task is \textit{classification}. The spam filter is a good and common example of this: it is trained with many example emails along with their \textit{class} (spam or ham), and it must learn how to classify new emails.
+
+%Machine learning applications in genetics and genomics reference
+In contrast, in \textit{unsupervised learning}, the training data are unlabelled. The machine learning algorithm uses only the unlabelled data and the desired number of different labels to assign as input. This approach requires an additional step in which semantics must be manually assigned to each label, but it provides the benefits of enabling training when labelled examples are unavailable and has the ability to identify potentially novel types of patterns.
+
+A mixture of both \textit{supervised learning} and \textit{unsupervised learning} is called \textit{semi-supervised learning} where the algorithm receives a collection of data points, but only a subset of these data points have associated labels. For this report, we will only focus on \textit{unsupervised learning} as the data are unlabelled.
+
+%----------------------------------------------------------------------------------------
+
+\section{Basic Genomics}
+%cite wikipedia and lecture notes, https://www.ncbi.nlm.nih.gov/books/NBK26829/
+This section will briefly cover basic ideas, definitions and processes in genomics which are relevant to the project. It hopes to provide a clear understanding to the whole project better. Some of the things that will be covered include:
+
+\begin{itemize}
+	\item Key components in molecular biology: DNA, Transcription, RNA, Translation.
+	\item Mitochondrion and the translational coordination between nuclear and mitochondrial genome during its production.
+\end{itemize}
+
+\newpage
+
+\subsection{Molecular Biology}
+The fundamental idea of molecular biology describes how genetic information is stored and interpreted in the cell: The genetic code of an organism is stored in DNA, which is transcribed into RNA, which is finally translated into protein. Proteins carry out the majority of cellular functions such as motility, DNA regulation, and replication. Though this holds true in most situations, there are a number of notable exceptions to the model. For instance, retroviruses are able to generate DNA from RNA via reverse-transcription. 
+
+\textbf{DNA} molecule stores the genetic information of an organism. DNA contains regions called \textbf{genes}, which encode for proteins to be produced. Other regions of the DNA contain regulatory elements, which partially influence the level of expression of each gene. \textbf{Transcription} is the first step of gene expression, in which a particular segment of DNA is copied into RNA (especially mRNA) by the enzyme RNA polymerase. DNA undergoes transcription to become RNA. \textbf{RNA} serves as both the information repository (like DNA today) and the functional workhorse (like protein today) in early organisms. \textbf{Translation} is the process in which ribosomes in the cytoplasm or ETR synthesize proteins after the process transcription of DNA to RNA in the cell's nucleus. This project will focus more on \textbf{translation}, particularly during mitochondrial biogenesis which will be explained further in the following subsection.
+
+\subsection{Mitochondria}
+%thoughtco
+Mitochondrion, an organelle which is formed by the process above, will be the main focus of our report. Mitochondrion \cite{Alberts2002} is an important organelle that acts as a key regulator of the metabolic activity of the cell. Mitochondria are best known as the powerhouses of the cell as they produce approximately 90\% of the energy required for cellular functions.  They are also involved in many other processes and functions such as controlling the concentration of calcium ions within the cell and hormones production. Because mitochondria perform so many functions in different tissues, mitochondrial dysfunction is associated with a large number of diseases, such as neurodegenerative disorders, cardiovascular diseases, cancer, diabetes and obesity. 
+ 
+Mitochondria are produced from the transcription and translation of genes both in the nuclear genome and in the mitochondrial genome. The majority of mitochondrial protein comes from the nuclear genome, while the mitochondrial genome encodes parts of electron transport chain along with mitochondrial rRNA and tRNA. In this report, we want to study particularly on mitochondria which are formed abundantly during mitochondrial biogenesis. Mitochondrial biogenesis is the process by which cells increase their individual mitochondrial mass and copy number to increase the production of ATP as a response to greater energy expenditure. 
+
+%----------------------------------------------------------------------------------------
+\section{Structure of Report}
+The report will be structured as follows:
+\begin{itemize}
+\item Chapter 1: Introduction and Preview
+\item Chapter 2: Objective and Literature Review
+\item Chapter 3: Theories and Tools Used
+\item Chapter 4: Proposed Algorithms
+\item Chapter 5: Empirical Study
+\item Chapter 6: Conclusion and future directions
+\end{itemize}
